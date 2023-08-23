@@ -1,0 +1,25 @@
+"TUYỆT ĐỐI KHÔNG COMMIT THẲNG LÊN MASTER"
+"CẦN PULL CODE VỀ TRƯỚC KHI THỰC THI CODE 1 CHỨC NĂNG MỚI"
+---------------------------
+I định nghĩa
+1 dự án github cần phải có 2 branch chính 
++ Master
++ develop
++ feature
+
+1 > Master 
+đây là nhánh vận hành của production dành cho client là nhánh quan trọng nhất và tuyệt đối không được đẩy thẳng lên master (nhánh chính)
+
+2>Develop
+Đây là nhánh dành cho phát triển phần mền 1 dự án
++ Kiểm tra tính năng.
++ là nhánh chứa toàn bộ tính năng chính khi chưa lên product.
+
+3>Feature 
+ 
+là nhánh phát triển chức năng riêng lẻ phát triển từ nhánh chính develop
+sau khi đã đc merge vào develop 
+"phải xóa branch này đi"
+3>Feature 
+ 
+là nhánh phát triển chức năng riêng lẻ phát triển từ nhánh chính develop sau khi đã đc merge vào develop "phải xóa branch này đi"
